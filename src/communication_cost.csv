@@ -1,0 +1,8 @@
+Metric,Value
+Number of Clients,3.0
+Federated Rounds,10.0
+Parameters Per Model,6.0
+Upload Bytes,1440.0
+Download Bytes,1440.0
+Total Communication Bytes,2880.0
+Total Communication KB,2.812
